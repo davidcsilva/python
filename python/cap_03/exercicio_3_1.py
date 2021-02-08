@@ -1,0 +1,6 @@
+print(5, type(5))
+print(5.0, type(5.0))
+print(4.3, type(4.3))
+print(-2, type(-2))
+print(100, type(100))
+print(1.333, type(1.333))
