@@ -11,6 +11,9 @@ touch README.md
 git add README.md
 git commit -m "add README"
 git push -u origin master
+git pull (para puxar arquivos do repositorio)
+git rm <arquivo> (para deletar arquivos)
+git rm -r <directory> (para deletar diretorio)
 
 #### Push an existing folder ####
 
