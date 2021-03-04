@@ -1,4 +1,4 @@
-#Git global setup
+# Git global setup
 
 git config --global user.name "David Silva"
 git config --global user.email "david.dacostaesilva@gmail.com"
