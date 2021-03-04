@@ -27,7 +27,6 @@ if e_num_divida and e_num_juros and e_num_parcela:
             else:
                 total_pago = total_pago + divida
                 divida = divida - divida
-                mes += 1
     else:
         print(f'A divida será paga em {mes} meses e o total pago sera R$: {total_pago: .2f}')
 else:
