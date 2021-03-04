@@ -1,7 +1,7 @@
 # Git global setup
 
-git config --global user.name "David Silva"
-git config --global user.email "david.dacostaesilva@gmail.com"
+<p> git config --global user.name "David Silva"
+<p> git config --global user.email "david.dacostaesilva@gmail.com"
 
 # Create a new repository 
 
