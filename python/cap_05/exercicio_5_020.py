@@ -26,7 +26,8 @@ while True:
             atual = 0.02
         elif atual == 0.02:
             atual = 0.01
-        elif atual < 0.01:
+        elif apagar < 0.01:
             print('Valor digitado inválido!')
+            break
         
         moedas = 0
