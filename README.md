@@ -8,7 +8,7 @@ Repositorio de Python
 
 # Create a new repository 
 
-<p> git clone https://gitlab.com/david710/python.git
+<p> git clone https://github.com/davidcsilva/python
 <p>cd python
 <p>touch README.md
 <p>git add README.md
@@ -22,7 +22,7 @@ Repositorio de Python
 
 <p>cd existing_folder
 <p>git init
-<p>git remote add origin https://gitlab.com/david710/python.git
+<p>git remote add origin https://github.com/davidcsilva/python
 <p>git add .
 <p>git commit -m "Initial commit"
 <p>git push -u origin master
@@ -31,6 +31,6 @@ Repositorio de Python
 
 <p>cd existing_repo
 <p>git remote rename origin old-origin
-<p>git remote add origin https://gitlab.com/david710/python.git
+<p>git remote add origin https://github.com/davidcsilva/python
 <p>git push -u origin --all
 <p>git push -u origin --tags
