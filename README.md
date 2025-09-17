@@ -38,5 +38,5 @@ Repositorio de Python
 # Alterando a Origem
 
 <p>  git remote remove origin (para remover)
-<p>  git remote add origin git://suaUrl (para adicionar outra)
-<p>  git remote set-url origin git://suaUrl (quanto alterar)
+<p>  git remote add origin https://github.com/davidcsilva/python (para adicionar outra)
+<p>  git remote set-url origin https://github.com/davidcsilva/python (quanto alterar)
